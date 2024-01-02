@@ -1,5 +1,7 @@
 # Vehicle Tracking and Counting with YOLOv8
 
+![yolo](https://github.com/shaadclt/Vehicle-Counter-YOLOv8/assets/98437584/4d37dfee-9711-4722-9ace-a15fb3e20553)
+
 ## Overview
 This Jupyter notebook project uses YOLOv8 for vehicle tracking and implements a line crossing detection algorithm. The system counts vehicles that cross a specified line in a video, annotates the frames, and generates an output video with visualizations.
 
